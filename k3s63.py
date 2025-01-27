@@ -22,7 +22,7 @@ def main_menu():
         "2": "https://raw.githubusercontent.com/k3s63/gmail2/refs/heads/main/gr.py",
         "3": "https://raw.githubusercontent.com/k3s63/gmail2/refs/heads/main/g1.py",
         "4": "https://raw.githubusercontent.com/k3s63/gmail2/refs/heads/main/aol.py",
-        "5": "https://raw.githubusercontent.com/k3s63/gmail2/refs/heads/main/aol%2Bgm.py",
+        "5": "https://raw.githubusercontent.com/k3s63/gmail2/refs/heads/main/aol%2Bgmail.py",
         "6": "https://raw.githubusercontent.com/k3s63/gmail2/refs/heads/main/reset.py",
     }
     
