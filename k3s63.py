@@ -10,7 +10,9 @@ print(f"""\x1b[38;5;117m 1\x1b[38;5;231m - Gmail Specific year Meta Enabled Hunt
 \x1b[38;5;117m 3\x1b[38;5;231m - Gmail Specific Year + Meta Hunter | \x1b[1;32m Active ✅
 \x1b[38;5;117m 4\x1b[38;5;231m - AOL Hunter | \x1b[1;32m Active ✅
 \x1b[38;5;117m 5\x1b[38;5;231m - AOL + Gmail Meta Hunter | \x1b[1;32m Active ✅
-\x1b[38;5;117m 6\x1b[38;5;231m - Pass reset Tool | \x1b[1;32m Active ✅
+\x1b[38;5;117m 6\x1b[38;5;231m - Business + Normal Meta Hunter | \x1b[1;32m Active ✅
+\x1b[38;5;117m 7\x1b[38;5;231m - Business + Normal Meta Hunter [Termux or Pc only] | \x1b[1;32m Active ✅
+\x1b[38;5;117m 8\x1b[38;5;231m - Pass reset Tool | \x1b[1;32m Active ✅
 """)
 
 def main_menu():
@@ -23,7 +25,9 @@ def main_menu():
         "3": "https://raw.githubusercontent.com/k3s63/gmail2/refs/heads/main/aol%2Bgmail.py",
         "4": "https://raw.githubusercontent.com/k3s63/gmail2/refs/heads/main/aol.py",
         "5": "https://raw.githubusercontent.com/k3s63/gmail2/refs/heads/main/aol%2Bgmail.py",
-        "6": "https://raw.githubusercontent.com/k3s63/gmail2/refs/heads/main/reset.py",
+        "6": "https://raw.githubusercontent.com/k3s63/gmail2/refs/heads/main/businessmeta.py",
+        "7": "https://raw.githubusercontent.com/k3s63/gmail/refs/heads/main/businessmeta.py",
+        "8": "https://raw.githubusercontent.com/k3s63/gmail2/refs/heads/main/reset.py",
     }
     
     if choice in scripts:
