@@ -17,7 +17,7 @@ print(f"""\x1b[38;5;117m 1\x1b[38;5;231m - Gmail Specific year Meta Enabled Hunt
 
 def main_menu():
     print("▩" * 60)
-    choice = input(" • Enter your choice (1-6): ")
+    choice = input(" • Enter your choice (1-8): ")
     
     scripts = {
         "1": "https://raw.githubusercontent.com/k3s63/gmail2/refs/heads/main/gs.py",
