@@ -1,0 +1,1 @@
+print('maa chuda jojo muje tere se koi fark nhi padta randi ke bache')
